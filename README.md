@@ -1,2 +1,2 @@
 # UdS
-An utility-driven Streaming
+An utility-driven streaming system
